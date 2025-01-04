@@ -120,6 +120,11 @@ def reset(self, event):
 ```
 
 # 欢迎贡献优化代码
+# 屏幕截图
+![logo](https://github.com/sun12yyds/Python-artboard/blob/main/ph/1.png)
+![logo](https://github.com/sun12yyds/Python-artboard/blob/main/ph/2.png)
+![logo](https://github.com/sun12yyds/Python-artboard/blob/main/ph/3.png)
+![logo](https://github.com/sun12yyds/Python-artboard/blob/main/ph/4.png)
 
 # 鸣谢
 -[sunlightLT](github.com/sunlightLT)
