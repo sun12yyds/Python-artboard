@@ -1,4 +1,4 @@
-# Python artboard
+# sun12yyds Python artboard v1.1
 # 一个好用，直接，大方的python画板程序！
 # 基本
 运行“画图1.py”即可体验python画板v1.1版本
